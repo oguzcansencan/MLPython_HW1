@@ -7,7 +7,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>27/03/2011</date>
+    <date>27.03.2011</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -17,7 +17,7 @@
     <round>2</round>
     <circuitId>2</circuitId>
     <name>Malaysian Grand Prix</name>
-    <date>10/04/2011</date>
+    <date>10.04.2011</date>
     <time>08:00:00</time>
   </row>
   <row>
@@ -27,7 +27,7 @@
     <round>3</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>17/04/2011</date>
+    <date>17.04.2011</date>
     <time>07:00:00</time>
   </row>
   <row>
@@ -37,7 +37,7 @@
     <round>4</round>
     <circuitId>5</circuitId>
     <name>Turkish Grand Prix</name>
-    <date>8/05/2011</date>
+    <date>8.05.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -47,7 +47,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>22/05/2011</date>
+    <date>22.05.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -57,7 +57,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>29/05/2011</date>
+    <date>29.05.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -67,7 +67,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>12/06/2011</date>
+    <date>12.06.2011</date>
     <time>17:00:00</time>
   </row>
   <row>
@@ -77,7 +77,7 @@
     <round>8</round>
     <circuitId>12</circuitId>
     <name>European Grand Prix</name>
-    <date>26/06/2011</date>
+    <date>26.06.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -87,7 +87,7 @@
     <round>9</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>10/07/2011</date>
+    <date>10.07.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -97,7 +97,7 @@
     <round>10</round>
     <circuitId>20</circuitId>
     <name>German Grand Prix</name>
-    <date>24/07/2011</date>
+    <date>24.07.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -107,7 +107,7 @@
     <round>11</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>31/07/2011</date>
+    <date>31.07.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -117,7 +117,7 @@
     <round>12</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>28/08/2011</date>
+    <date>28.08.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -127,7 +127,7 @@
     <round>13</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>11/09/2011</date>
+    <date>11.09.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -137,7 +137,7 @@
     <round>14</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>25/09/2011</date>
+    <date>25.09.2011</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -147,7 +147,7 @@
     <round>15</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>9/10/2011</date>
+    <date>9.10.2011</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -157,7 +157,7 @@
     <round>16</round>
     <circuitId>35</circuitId>
     <name>Korean Grand Prix</name>
-    <date>16/10/2011</date>
+    <date>16.10.2011</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -167,7 +167,7 @@
     <round>17</round>
     <circuitId>68</circuitId>
     <name>Indian Grand Prix</name>
-    <date>30/10/2011</date>
+    <date>30.10.2011</date>
     <time>09:30:00</time>
   </row>
   <row>
@@ -177,7 +177,7 @@
     <round>18</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>13/11/2011</date>
+    <date>13.11.2011</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -187,7 +187,7 @@
     <round>19</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>27/11/2011</date>
+    <date>27.11.2011</date>
     <time>16:00:00</time>
   </row>
   <row>
@@ -197,7 +197,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>18/03/2012</date>
+    <date>18.03.2012</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -207,7 +207,7 @@
     <round>2</round>
     <circuitId>2</circuitId>
     <name>Malaysian Grand Prix</name>
-    <date>25/03/2012</date>
+    <date>25.03.2012</date>
     <time>08:00:00</time>
   </row>
   <row>
@@ -217,7 +217,7 @@
     <round>3</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>15/04/2012</date>
+    <date>15.04.2012</date>
     <time>07:00:00</time>
   </row>
   <row>
@@ -227,7 +227,7 @@
     <round>4</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>22/04/2012</date>
+    <date>22.04.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -237,7 +237,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>13/05/2012</date>
+    <date>13.05.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -247,7 +247,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>27/05/2012</date>
+    <date>27.05.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -257,7 +257,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>10/06/2012</date>
+    <date>10.06.2012</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -267,7 +267,7 @@
     <round>8</round>
     <circuitId>12</circuitId>
     <name>European Grand Prix</name>
-    <date>24/06/2012</date>
+    <date>24.06.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -277,7 +277,7 @@
     <round>9</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>8/07/2012</date>
+    <date>8.07.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -287,7 +287,7 @@
     <round>10</round>
     <circuitId>10</circuitId>
     <name>German Grand Prix</name>
-    <date>22/07/2012</date>
+    <date>22.07.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -297,7 +297,7 @@
     <round>11</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>29/07/2012</date>
+    <date>29.07.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -307,7 +307,7 @@
     <round>12</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>2/09/2012</date>
+    <date>2.09.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -317,7 +317,7 @@
     <round>13</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>9/09/2012</date>
+    <date>9.09.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -327,7 +327,7 @@
     <round>14</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>23/09/2012</date>
+    <date>23.09.2012</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -337,7 +337,7 @@
     <round>15</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>7/10/2012</date>
+    <date>7.10.2012</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -347,7 +347,7 @@
     <round>16</round>
     <circuitId>35</circuitId>
     <name>Korean Grand Prix</name>
-    <date>14/10/2012</date>
+    <date>14.10.2012</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -357,7 +357,7 @@
     <round>17</round>
     <circuitId>68</circuitId>
     <name>Indian Grand Prix</name>
-    <date>28/10/2012</date>
+    <date>28.10.2012</date>
     <time>09:30:00</time>
   </row>
   <row>
@@ -367,7 +367,7 @@
     <round>18</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>4/11/2012</date>
+    <date>4.11.2012</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -377,7 +377,7 @@
     <round>19</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>18/11/2012</date>
+    <date>18.11.2012</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -387,7 +387,7 @@
     <round>20</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>25/11/2012</date>
+    <date>25.11.2012</date>
     <time>16:00:00</time>
   </row>
   <row>
@@ -397,7 +397,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>17/03/2013</date>
+    <date>17.03.2013</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -407,7 +407,7 @@
     <round>2</round>
     <circuitId>2</circuitId>
     <name>Malaysian Grand Prix</name>
-    <date>24/03/2013</date>
+    <date>24.03.2013</date>
     <time>08:00:00</time>
   </row>
   <row>
@@ -417,7 +417,7 @@
     <round>3</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>14/04/2013</date>
+    <date>14.04.2013</date>
     <time>07:00:00</time>
   </row>
   <row>
@@ -427,7 +427,7 @@
     <round>4</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>21/04/2013</date>
+    <date>21.04.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -437,7 +437,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>12/05/2013</date>
+    <date>12.05.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -447,7 +447,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>26/05/2013</date>
+    <date>26.05.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -457,7 +457,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>9/06/2013</date>
+    <date>9.06.2013</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -467,7 +467,7 @@
     <round>8</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>30/06/2013</date>
+    <date>30.06.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -477,7 +477,7 @@
     <round>9</round>
     <circuitId>20</circuitId>
     <name>German Grand Prix</name>
-    <date>7/07/2013</date>
+    <date>7.07.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -487,7 +487,7 @@
     <round>10</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>28/07/2013</date>
+    <date>28.07.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -497,7 +497,7 @@
     <round>11</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>25/08/2013</date>
+    <date>25.08.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -507,7 +507,7 @@
     <round>12</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>8/09/2013</date>
+    <date>8.09.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -517,7 +517,7 @@
     <round>13</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>22/09/2013</date>
+    <date>22.09.2013</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -527,7 +527,7 @@
     <round>14</round>
     <circuitId>35</circuitId>
     <name>Korean Grand Prix</name>
-    <date>6/10/2013</date>
+    <date>6.10.2013</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -537,7 +537,7 @@
     <round>15</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>13/10/2013</date>
+    <date>13.10.2013</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -547,7 +547,7 @@
     <round>16</round>
     <circuitId>68</circuitId>
     <name>Indian Grand Prix</name>
-    <date>27/10/2013</date>
+    <date>27.10.2013</date>
     <time>09:30:00</time>
   </row>
   <row>
@@ -557,7 +557,7 @@
     <round>17</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>3/11/2013</date>
+    <date>3.11.2013</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -567,7 +567,7 @@
     <round>18</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>17/11/2013</date>
+    <date>17.11.2013</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -577,7 +577,7 @@
     <round>19</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>24/11/2013</date>
+    <date>24.11.2013</date>
     <time>16:00:00</time>
   </row>
   <row>
@@ -587,7 +587,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>16/03/2014</date>
+    <date>16.03.2014</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -597,7 +597,7 @@
     <round>2</round>
     <circuitId>2</circuitId>
     <name>Malaysian Grand Prix</name>
-    <date>30/03/2014</date>
+    <date>30.03.2014</date>
     <time>08:00:00</time>
   </row>
   <row>
@@ -607,7 +607,7 @@
     <round>3</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>6/04/2014</date>
+    <date>6.04.2014</date>
     <time>15:00:00</time>
   </row>
   <row>
@@ -617,7 +617,7 @@
     <round>4</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>20/04/2014</date>
+    <date>20.04.2014</date>
     <time>07:00:00</time>
   </row>
   <row>
@@ -627,7 +627,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>11/05/2014</date>
+    <date>11.05.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -637,7 +637,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>25/05/2014</date>
+    <date>25.05.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -647,7 +647,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>8/06/2014</date>
+    <date>8.06.2014</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -657,7 +657,7 @@
     <round>8</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>22/06/2014</date>
+    <date>22.06.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -667,7 +667,7 @@
     <round>9</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>6/07/2014</date>
+    <date>6.07.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -677,7 +677,7 @@
     <round>10</round>
     <circuitId>10</circuitId>
     <name>German Grand Prix</name>
-    <date>20/07/2014</date>
+    <date>20.07.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -687,7 +687,7 @@
     <round>11</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>27/07/2014</date>
+    <date>27.07.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -697,7 +697,7 @@
     <round>12</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>24/08/2014</date>
+    <date>24.08.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -707,7 +707,7 @@
     <round>13</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>7/09/2014</date>
+    <date>7.09.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -717,7 +717,7 @@
     <round>14</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>21/09/2014</date>
+    <date>21.09.2014</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -727,7 +727,7 @@
     <round>15</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>5/10/2014</date>
+    <date>5.10.2014</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -737,7 +737,7 @@
     <round>16</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>12/10/2014</date>
+    <date>12.10.2014</date>
     <time>11:00:00</time>
   </row>
   <row>
@@ -747,7 +747,7 @@
     <round>17</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>2/11/2014</date>
+    <date>2.11.2014</date>
     <time>20:00:00</time>
   </row>
   <row>
@@ -757,7 +757,7 @@
     <round>18</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>9/11/2014</date>
+    <date>9.11.2014</date>
     <time>16:00:00</time>
   </row>
   <row>
@@ -767,7 +767,7 @@
     <round>19</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>23/11/2014</date>
+    <date>23.11.2014</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -777,7 +777,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>24/05/2015</date>
+    <date>24.05.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -787,7 +787,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>7/06/2015</date>
+    <date>7.06.2015</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -797,7 +797,7 @@
     <round>4</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>19/04/2015</date>
+    <date>19.04.2015</date>
     <time>15:00:00</time>
   </row>
   <row>
@@ -807,7 +807,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>10/05/2015</date>
+    <date>10.05.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -817,7 +817,7 @@
     <round>3</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>12/04/2015</date>
+    <date>12.04.2015</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -827,7 +827,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>15/03/2015</date>
+    <date>15.03.2015</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -837,7 +837,7 @@
     <round>2</round>
     <circuitId>2</circuitId>
     <name>Malaysian Grand Prix</name>
-    <date>29/03/2015</date>
+    <date>29.03.2015</date>
     <time>07:00:00</time>
   </row>
   <row>
@@ -847,7 +847,7 @@
     <round>8</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>21/06/2015</date>
+    <date>21.06.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -857,7 +857,7 @@
     <round>9</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>5/07/2015</date>
+    <date>5.07.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -867,7 +867,7 @@
     <round>10</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>26/07/2015</date>
+    <date>26.07.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -877,7 +877,7 @@
     <round>11</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>23/08/2015</date>
+    <date>23.08.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -887,7 +887,7 @@
     <round>12</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>6/09/2015</date>
+    <date>6.09.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -897,7 +897,7 @@
     <round>13</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>20/09/2015</date>
+    <date>20.09.2015</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -907,7 +907,7 @@
     <round>14</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>27/09/2015</date>
+    <date>27.09.2015</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -917,7 +917,7 @@
     <round>15</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>11/10/2015</date>
+    <date>11.10.2015</date>
     <time>11:00:00</time>
   </row>
   <row>
@@ -927,7 +927,7 @@
     <round>16</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>25/10/2015</date>
+    <date>25.10.2015</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -937,7 +937,7 @@
     <round>17</round>
     <circuitId>32</circuitId>
     <name>Mexican Grand Prix</name>
-    <date>1/11/2015</date>
+    <date>1.11.2015</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -947,7 +947,7 @@
     <round>18</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>15/11/2015</date>
+    <date>15.11.2015</date>
     <time>16:00:00</time>
   </row>
   <row>
@@ -957,7 +957,7 @@
     <round>19</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>29/11/2015</date>
+    <date>29.11.2015</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -967,7 +967,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>20/03/2016</date>
+    <date>20.03.2016</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -977,7 +977,7 @@
     <round>2</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>3/04/2016</date>
+    <date>3.04.2016</date>
     <time>15:00:00</time>
   </row>
   <row>
@@ -987,7 +987,7 @@
     <round>3</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>17/04/2016</date>
+    <date>17.04.2016</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -997,7 +997,7 @@
     <round>4</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>1/05/2016</date>
+    <date>1.05.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1007,7 +1007,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>15/05/2016</date>
+    <date>15.05.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1017,7 +1017,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>29/05/2016</date>
+    <date>29.05.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1027,7 +1027,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>12/06/2016</date>
+    <date>12.06.2016</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -1037,7 +1037,7 @@
     <round>8</round>
     <circuitId>73</circuitId>
     <name>European Grand Prix</name>
-    <date>19/06/2016</date>
+    <date>19.06.2016</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -1047,7 +1047,7 @@
     <round>9</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>3/07/2016</date>
+    <date>3.07.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1057,7 +1057,7 @@
     <round>10</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>10/07/2016</date>
+    <date>10.07.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1067,7 +1067,7 @@
     <round>11</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>24/07/2016</date>
+    <date>24.07.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1077,7 +1077,7 @@
     <round>12</round>
     <circuitId>10</circuitId>
     <name>German Grand Prix</name>
-    <date>31/07/2016</date>
+    <date>31.07.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1087,7 +1087,7 @@
     <round>13</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>28/08/2016</date>
+    <date>28.08.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1097,7 +1097,7 @@
     <round>14</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>4/09/2016</date>
+    <date>4.09.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1107,7 +1107,7 @@
     <round>15</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>18/09/2016</date>
+    <date>18.09.2016</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1117,7 +1117,7 @@
     <round>16</round>
     <circuitId>2</circuitId>
     <name>Malaysian Grand Prix</name>
-    <date>2/10/2016</date>
+    <date>2.10.2016</date>
     <time>07:00:00</time>
   </row>
   <row>
@@ -1127,7 +1127,7 @@
     <round>17</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>9/10/2016</date>
+    <date>9.10.2016</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -1137,7 +1137,7 @@
     <round>18</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>23/10/2016</date>
+    <date>23.10.2016</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -1147,7 +1147,7 @@
     <round>19</round>
     <circuitId>32</circuitId>
     <name>Mexican Grand Prix</name>
-    <date>30/10/2016</date>
+    <date>30.10.2016</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -1157,7 +1157,7 @@
     <round>20</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>13/11/2016</date>
+    <date>13.11.2016</date>
     <time>16:00:00</time>
   </row>
   <row>
@@ -1167,7 +1167,7 @@
     <round>21</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>27/11/2016</date>
+    <date>27.11.2016</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -1177,7 +1177,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>26/03/2017</date>
+    <date>26.03.2017</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -1187,7 +1187,7 @@
     <round>2</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>9/04/2017</date>
+    <date>9.04.2017</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -1197,7 +1197,7 @@
     <round>3</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>16/04/2017</date>
+    <date>16.04.2017</date>
     <time>15:00:00</time>
   </row>
   <row>
@@ -1207,7 +1207,7 @@
     <round>4</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>30/04/2017</date>
+    <date>30.04.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1217,7 +1217,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>14/05/2017</date>
+    <date>14.05.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1227,7 +1227,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>28/05/2017</date>
+    <date>28.05.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1237,7 +1237,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>11/06/2017</date>
+    <date>11.06.2017</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -1247,7 +1247,7 @@
     <round>8</round>
     <circuitId>73</circuitId>
     <name>Azerbaijan Grand Prix</name>
-    <date>25/06/2017</date>
+    <date>25.06.2017</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -1257,7 +1257,7 @@
     <round>9</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>9/07/2017</date>
+    <date>9.07.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1267,7 +1267,7 @@
     <round>10</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>16/07/2017</date>
+    <date>16.07.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1277,7 +1277,7 @@
     <round>11</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>30/07/2017</date>
+    <date>30.07.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1287,7 +1287,7 @@
     <round>12</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>27/08/2017</date>
+    <date>27.08.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1297,7 +1297,7 @@
     <round>13</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>3/09/2017</date>
+    <date>3.09.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1307,7 +1307,7 @@
     <round>14</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>17/09/2017</date>
+    <date>17.09.2017</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -1317,7 +1317,7 @@
     <round>15</round>
     <circuitId>2</circuitId>
     <name>Malaysian Grand Prix</name>
-    <date>1/10/2017</date>
+    <date>1.10.2017</date>
     <time>07:00:00</time>
   </row>
   <row>
@@ -1327,7 +1327,7 @@
     <round>16</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>8/10/2017</date>
+    <date>8.10.2017</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -1337,7 +1337,7 @@
     <round>17</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>22/10/2017</date>
+    <date>22.10.2017</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -1347,7 +1347,7 @@
     <round>18</round>
     <circuitId>32</circuitId>
     <name>Mexican Grand Prix</name>
-    <date>29/10/2017</date>
+    <date>29.10.2017</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -1357,7 +1357,7 @@
     <round>19</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>12/11/2017</date>
+    <date>12.11.2017</date>
     <time>16:00:00</time>
   </row>
   <row>
@@ -1367,7 +1367,7 @@
     <round>20</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>26/11/2017</date>
+    <date>26.11.2017</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -1377,7 +1377,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>25/03/2018</date>
+    <date>25.03.2018</date>
     <time>05:10:00</time>
   </row>
   <row>
@@ -1387,7 +1387,7 @@
     <round>2</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>8/04/2018</date>
+    <date>8.04.2018</date>
     <time>15:10:00</time>
   </row>
   <row>
@@ -1397,7 +1397,7 @@
     <round>3</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>15/04/2018</date>
+    <date>15.04.2018</date>
     <time>06:10:00</time>
   </row>
   <row>
@@ -1407,7 +1407,7 @@
     <round>4</round>
     <circuitId>73</circuitId>
     <name>Azerbaijan Grand Prix</name>
-    <date>29/04/2018</date>
+    <date>29.04.2018</date>
     <time>12:10:00</time>
   </row>
   <row>
@@ -1417,7 +1417,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>13/05/2018</date>
+    <date>13.05.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1427,7 +1427,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>27/05/2018</date>
+    <date>27.05.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1437,7 +1437,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>10/06/2018</date>
+    <date>10.06.2018</date>
     <time>18:10:00</time>
   </row>
   <row>
@@ -1447,7 +1447,7 @@
     <round>8</round>
     <circuitId>34</circuitId>
     <name>French Grand Prix</name>
-    <date>24/06/2018</date>
+    <date>24.06.2018</date>
     <time>14:10:00</time>
   </row>
   <row>
@@ -1457,7 +1457,7 @@
     <round>9</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>1/07/2018</date>
+    <date>1.07.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1467,7 +1467,7 @@
     <round>10</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>8/07/2018</date>
+    <date>8.07.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1477,7 +1477,7 @@
     <round>11</round>
     <circuitId>10</circuitId>
     <name>German Grand Prix</name>
-    <date>22/07/2018</date>
+    <date>22.07.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1487,7 +1487,7 @@
     <round>12</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>29/07/2018</date>
+    <date>29.07.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1497,7 +1497,7 @@
     <round>13</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>26/08/2018</date>
+    <date>26.08.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1507,7 +1507,7 @@
     <round>14</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>2/09/2018</date>
+    <date>2.09.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1517,7 +1517,7 @@
     <round>15</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>16/09/2018</date>
+    <date>16.09.2018</date>
     <time>12:10:00</time>
   </row>
   <row>
@@ -1527,7 +1527,7 @@
     <round>16</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>30/09/2018</date>
+    <date>30.09.2018</date>
     <time>11:10:00</time>
   </row>
   <row>
@@ -1537,7 +1537,7 @@
     <round>17</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>7/10/2018</date>
+    <date>7.10.2018</date>
     <time>05:10:00</time>
   </row>
   <row>
@@ -1547,7 +1547,7 @@
     <round>18</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>21/10/2018</date>
+    <date>21.10.2018</date>
     <time>18:10:00</time>
   </row>
   <row>
@@ -1557,7 +1557,7 @@
     <round>19</round>
     <circuitId>32</circuitId>
     <name>Mexican Grand Prix</name>
-    <date>28/10/2018</date>
+    <date>28.10.2018</date>
     <time>19:10:00</time>
   </row>
   <row>
@@ -1567,7 +1567,7 @@
     <round>20</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>11/11/2018</date>
+    <date>11.11.2018</date>
     <time>17:10:00</time>
   </row>
   <row>
@@ -1577,7 +1577,7 @@
     <round>21</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>25/11/2018</date>
+    <date>25.11.2018</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1587,7 +1587,7 @@
     <round>1</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>17/03/2019</date>
+    <date>17.03.2019</date>
     <time>05:10:00</time>
   </row>
   <row>
@@ -1597,7 +1597,7 @@
     <round>2</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>31/03/2019</date>
+    <date>31.03.2019</date>
     <time>15:10:00</time>
   </row>
   <row>
@@ -1607,7 +1607,7 @@
     <round>3</round>
     <circuitId>17</circuitId>
     <name>Chinese Grand Prix</name>
-    <date>14/04/2019</date>
+    <date>14.04.2019</date>
     <time>06:10:00</time>
   </row>
   <row>
@@ -1617,7 +1617,7 @@
     <round>4</round>
     <circuitId>73</circuitId>
     <name>Azerbaijan Grand Prix</name>
-    <date>28/04/2019</date>
+    <date>28.04.2019</date>
     <time>12:10:00</time>
   </row>
   <row>
@@ -1627,7 +1627,7 @@
     <round>5</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>12/05/2019</date>
+    <date>12.05.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1637,7 +1637,7 @@
     <round>6</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>26/05/2019</date>
+    <date>26.05.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1647,7 +1647,7 @@
     <round>7</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>9/06/2019</date>
+    <date>9.06.2019</date>
     <time>18:10:00</time>
   </row>
   <row>
@@ -1657,7 +1657,7 @@
     <round>8</round>
     <circuitId>34</circuitId>
     <name>French Grand Prix</name>
-    <date>23/06/2019</date>
+    <date>23.06.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1667,7 +1667,7 @@
     <round>9</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>30/06/2019</date>
+    <date>30.06.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1677,7 +1677,7 @@
     <round>10</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>14/07/2019</date>
+    <date>14.07.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1687,7 +1687,7 @@
     <round>11</round>
     <circuitId>10</circuitId>
     <name>German Grand Prix</name>
-    <date>28/07/2019</date>
+    <date>28.07.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1697,7 +1697,7 @@
     <round>12</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>4/08/2019</date>
+    <date>4.08.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1707,7 +1707,7 @@
     <round>13</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>1/09/2019</date>
+    <date>1.09.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1717,7 +1717,7 @@
     <round>14</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>8/09/2019</date>
+    <date>8.09.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1727,7 +1727,7 @@
     <round>15</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>22/09/2019</date>
+    <date>22.09.2019</date>
     <time>12:10:00</time>
   </row>
   <row>
@@ -1737,7 +1737,7 @@
     <round>16</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>29/09/2019</date>
+    <date>29.09.2019</date>
     <time>11:10:00</time>
   </row>
   <row>
@@ -1747,7 +1747,7 @@
     <round>17</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>13/10/2019</date>
+    <date>13.10.2019</date>
     <time>05:10:00</time>
   </row>
   <row>
@@ -1757,7 +1757,7 @@
     <round>18</round>
     <circuitId>32</circuitId>
     <name>Mexican Grand Prix</name>
-    <date>27/10/2019</date>
+    <date>27.10.2019</date>
     <time>19:10:00</time>
   </row>
   <row>
@@ -1767,7 +1767,7 @@
     <round>19</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>3/11/2019</date>
+    <date>3.11.2019</date>
     <time>19:10:00</time>
   </row>
   <row>
@@ -1777,7 +1777,7 @@
     <round>20</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>17/11/2019</date>
+    <date>17.11.2019</date>
     <time>17:10:00</time>
   </row>
   <row>
@@ -1787,7 +1787,7 @@
     <round>21</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>1/12/2019</date>
+    <date>1.12.2019</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1797,7 +1797,7 @@
     <round>1</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>5/07/2020</date>
+    <date>5.07.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1807,7 +1807,7 @@
     <round>2</round>
     <circuitId>70</circuitId>
     <name>Styrian Grand Prix</name>
-    <date>12/07/2020</date>
+    <date>12.07.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1817,7 +1817,7 @@
     <round>3</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>19/07/2020</date>
+    <date>19.07.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1827,7 +1827,7 @@
     <round>4</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>2/08/2020</date>
+    <date>2.08.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1837,7 +1837,7 @@
     <round>5</round>
     <circuitId>9</circuitId>
     <name>70th Anniversary Grand Prix</name>
-    <date>9/08/2020</date>
+    <date>9.08.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1847,7 +1847,7 @@
     <round>6</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>16/08/2020</date>
+    <date>16.08.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1857,7 +1857,7 @@
     <round>7</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>30/08/2020</date>
+    <date>30.08.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1867,7 +1867,7 @@
     <round>8</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>6/09/2020</date>
+    <date>6.09.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1877,7 +1877,7 @@
     <round>9</round>
     <circuitId>76</circuitId>
     <name>Tuscan Grand Prix</name>
-    <date>13/09/2020</date>
+    <date>13.09.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1887,7 +1887,7 @@
     <round>10</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>27/09/2020</date>
+    <date>27.09.2020</date>
     <time>11:10:00</time>
   </row>
   <row>
@@ -1897,7 +1897,7 @@
     <round>11</round>
     <circuitId>20</circuitId>
     <name>Eifel Grand Prix</name>
-    <date>11/10/2020</date>
+    <date>11.10.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1907,7 +1907,7 @@
     <round>12</round>
     <circuitId>75</circuitId>
     <name>Portuguese Grand Prix</name>
-    <date>25/10/2020</date>
+    <date>25.10.2020</date>
     <time>12:10:00</time>
   </row>
   <row>
@@ -1917,7 +1917,7 @@
     <round>13</round>
     <circuitId>21</circuitId>
     <name>Emilia Romagna Grand Prix</name>
-    <date>1/11/2020</date>
+    <date>1.11.2020</date>
     <time>12:10:00</time>
   </row>
   <row>
@@ -1927,7 +1927,7 @@
     <round>14</round>
     <circuitId>5</circuitId>
     <name>Turkish Grand Prix</name>
-    <date>15/11/2020</date>
+    <date>15.11.2020</date>
     <time>10:10:00</time>
   </row>
   <row>
@@ -1937,7 +1937,7 @@
     <round>15</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>29/11/2020</date>
+    <date>29.11.2020</date>
     <time>14:10:00</time>
   </row>
   <row>
@@ -1947,7 +1947,7 @@
     <round>16</round>
     <circuitId>3</circuitId>
     <name>Sakhir Grand Prix</name>
-    <date>6/12/2020</date>
+    <date>6.12.2020</date>
     <time>17:10:00</time>
   </row>
   <row>
@@ -1957,7 +1957,7 @@
     <round>17</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>13/12/2020</date>
+    <date>13.12.2020</date>
     <time>13:10:00</time>
   </row>
   <row>
@@ -1967,7 +1967,7 @@
     <round>2</round>
     <circuitId>21</circuitId>
     <name>Emilia Romagna Grand Prix</name>
-    <date>18/04/2021</date>
+    <date>18.04.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -1977,7 +1977,7 @@
     <round>1</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>20/03/2022</date>
+    <date>20.03.2022</date>
     <time>15:00:00</time>
   </row>
   <row>
@@ -1987,7 +1987,7 @@
     <round>1</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>28/03/2021</date>
+    <date>28.03.2021</date>
     <time>15:00:00</time>
   </row>
   <row>
@@ -1997,7 +1997,7 @@
     <round>20</round>
     <circuitId>78</circuitId>
     <name>Qatar Grand Prix</name>
-    <date>21/11/2021</date>
+    <date>21.11.2021</date>
     <time>14:00:00</time>
   </row>
   <row>
@@ -2007,7 +2007,7 @@
     <round>3</round>
     <circuitId>75</circuitId>
     <name>Portuguese Grand Prix</name>
-    <date>2/05/2021</date>
+    <date>2.05.2021</date>
     <time>14:00:00</time>
   </row>
   <row>
@@ -2017,7 +2017,7 @@
     <round>4</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>9/05/2021</date>
+    <date>9.05.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2027,7 +2027,7 @@
     <round>5</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>23/05/2021</date>
+    <date>23.05.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2037,7 +2037,7 @@
     <round>6</round>
     <circuitId>73</circuitId>
     <name>Azerbaijan Grand Prix</name>
-    <date>6/06/2021</date>
+    <date>6.06.2021</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -2047,7 +2047,7 @@
     <round>8</round>
     <circuitId>70</circuitId>
     <name>Styrian Grand Prix</name>
-    <date>27/06/2021</date>
+    <date>27.06.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2057,7 +2057,7 @@
     <round>7</round>
     <circuitId>34</circuitId>
     <name>French Grand Prix</name>
-    <date>20/06/2021</date>
+    <date>20.06.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2067,7 +2067,7 @@
     <round>9</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>4/07/2021</date>
+    <date>4.07.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2077,7 +2077,7 @@
     <round>10</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>18/07/2021</date>
+    <date>18.07.2021</date>
     <time>14:00:00</time>
   </row>
   <row>
@@ -2087,7 +2087,7 @@
     <round>11</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>1/08/2021</date>
+    <date>1.08.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2097,7 +2097,7 @@
     <round>12</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>29/08/2021</date>
+    <date>29.08.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2107,7 +2107,7 @@
     <round>13</round>
     <circuitId>39</circuitId>
     <name>Dutch Grand Prix</name>
-    <date>5/09/2021</date>
+    <date>5.09.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2117,7 +2117,7 @@
     <round>14</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>12/09/2021</date>
+    <date>12.09.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2127,7 +2127,7 @@
     <round>15</round>
     <circuitId>71</circuitId>
     <name>Russian Grand Prix</name>
-    <date>26/09/2021</date>
+    <date>26.09.2021</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -2137,7 +2137,7 @@
     <round>16</round>
     <circuitId>5</circuitId>
     <name>Turkish Grand Prix</name>
-    <date>10/10/2021</date>
+    <date>10.10.2021</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -2147,7 +2147,7 @@
     <round>17</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>24/10/2021</date>
+    <date>24.10.2021</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -2157,7 +2157,7 @@
     <round>18</round>
     <circuitId>32</circuitId>
     <name>Mexico City Grand Prix</name>
-    <date>7/11/2021</date>
+    <date>7.11.2021</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -2167,7 +2167,7 @@
     <round>19</round>
     <circuitId>18</circuitId>
     <name>São Paulo Grand Prix</name>
-    <date>14/11/2021</date>
+    <date>14.11.2021</date>
     <time>17:00:00</time>
   </row>
   <row>
@@ -2177,7 +2177,7 @@
     <round>21</round>
     <circuitId>77</circuitId>
     <name>Saudi Arabian Grand Prix</name>
-    <date>5/12/2021</date>
+    <date>5.12.2021</date>
     <time>17:30:00</time>
   </row>
   <row>
@@ -2187,7 +2187,7 @@
     <round>22</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>12/12/2021</date>
+    <date>12.12.2021</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2197,7 +2197,7 @@
     <round>2</round>
     <circuitId>77</circuitId>
     <name>Saudi Arabian Grand Prix</name>
-    <date>27/03/2022</date>
+    <date>27.03.2022</date>
     <time>17:00:00</time>
   </row>
   <row>
@@ -2207,7 +2207,7 @@
     <round>3</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>10/04/2022</date>
+    <date>10.04.2022</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -2217,7 +2217,7 @@
     <round>4</round>
     <circuitId>21</circuitId>
     <name>Emilia Romagna Grand Prix</name>
-    <date>24/04/2022</date>
+    <date>24.04.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2227,7 +2227,7 @@
     <round>5</round>
     <circuitId>79</circuitId>
     <name>Miami Grand Prix</name>
-    <date>8/05/2022</date>
+    <date>8.05.2022</date>
     <time>19:30:00</time>
   </row>
   <row>
@@ -2237,7 +2237,7 @@
     <round>6</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>22/05/2022</date>
+    <date>22.05.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2247,7 +2247,7 @@
     <round>7</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>29/05/2022</date>
+    <date>29.05.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2257,7 +2257,7 @@
     <round>8</round>
     <circuitId>73</circuitId>
     <name>Azerbaijan Grand Prix</name>
-    <date>12/06/2022</date>
+    <date>12.06.2022</date>
     <time>11:00:00</time>
   </row>
   <row>
@@ -2267,7 +2267,7 @@
     <round>9</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>19/06/2022</date>
+    <date>19.06.2022</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -2277,7 +2277,7 @@
     <round>10</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>3/07/2022</date>
+    <date>3.07.2022</date>
     <time>14:00:00</time>
   </row>
   <row>
@@ -2287,7 +2287,7 @@
     <round>11</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>10/07/2022</date>
+    <date>10.07.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2297,7 +2297,7 @@
     <round>12</round>
     <circuitId>34</circuitId>
     <name>French Grand Prix</name>
-    <date>24/07/2022</date>
+    <date>24.07.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2307,7 +2307,7 @@
     <round>13</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>31/07/2022</date>
+    <date>31.07.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2317,7 +2317,7 @@
     <round>14</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>28/08/2022</date>
+    <date>28.08.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2327,7 +2327,7 @@
     <round>15</round>
     <circuitId>39</circuitId>
     <name>Dutch Grand Prix</name>
-    <date>4/09/2022</date>
+    <date>4.09.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2337,7 +2337,7 @@
     <round>16</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>11/09/2022</date>
+    <date>11.09.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2347,7 +2347,7 @@
     <round>17</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>2/10/2022</date>
+    <date>2.10.2022</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -2357,7 +2357,7 @@
     <round>18</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>9/10/2022</date>
+    <date>9.10.2022</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -2367,7 +2367,7 @@
     <round>19</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>23/10/2022</date>
+    <date>23.10.2022</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -2377,7 +2377,7 @@
     <round>20</round>
     <circuitId>32</circuitId>
     <name>Mexico City Grand Prix</name>
-    <date>30/10/2022</date>
+    <date>30.10.2022</date>
     <time>20:00:00</time>
   </row>
   <row>
@@ -2387,7 +2387,7 @@
     <round>21</round>
     <circuitId>18</circuitId>
     <name>Brazilian Grand Prix</name>
-    <date>13/11/2022</date>
+    <date>13.11.2022</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -2397,7 +2397,7 @@
     <round>22</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>20/11/2022</date>
+    <date>20.11.2022</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2407,7 +2407,7 @@
     <round>1</round>
     <circuitId>3</circuitId>
     <name>Bahrain Grand Prix</name>
-    <date>5/03/2023</date>
+    <date>5.03.2023</date>
     <time>15:00:00</time>
   </row>
   <row>
@@ -2417,7 +2417,7 @@
     <round>2</round>
     <circuitId>77</circuitId>
     <name>Saudi Arabian Grand Prix</name>
-    <date>19/03/2023</date>
+    <date>19.03.2023</date>
     <time>17:00:00</time>
   </row>
   <row>
@@ -2427,7 +2427,7 @@
     <round>3</round>
     <circuitId>1</circuitId>
     <name>Australian Grand Prix</name>
-    <date>2/04/2023</date>
+    <date>2.04.2023</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -2437,7 +2437,7 @@
     <round>4</round>
     <circuitId>73</circuitId>
     <name>Azerbaijan Grand Prix</name>
-    <date>30/04/2023</date>
+    <date>30.04.2023</date>
     <time>11:00:00</time>
   </row>
   <row>
@@ -2447,7 +2447,7 @@
     <round>5</round>
     <circuitId>79</circuitId>
     <name>Miami Grand Prix</name>
-    <date>7/05/2023</date>
+    <date>7.05.2023</date>
     <time>19:30:00</time>
   </row>
   <row>
@@ -2457,7 +2457,7 @@
     <round>6</round>
     <circuitId>21</circuitId>
     <name>Emilia Romagna Grand Prix</name>
-    <date>21/05/2023</date>
+    <date>21.05.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2467,7 +2467,7 @@
     <round>7</round>
     <circuitId>6</circuitId>
     <name>Monaco Grand Prix</name>
-    <date>28/05/2023</date>
+    <date>28.05.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2477,7 +2477,7 @@
     <round>8</round>
     <circuitId>4</circuitId>
     <name>Spanish Grand Prix</name>
-    <date>4/06/2023</date>
+    <date>4.06.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2487,7 +2487,7 @@
     <round>9</round>
     <circuitId>7</circuitId>
     <name>Canadian Grand Prix</name>
-    <date>18/06/2023</date>
+    <date>18.06.2023</date>
     <time>18:00:00</time>
   </row>
   <row>
@@ -2497,7 +2497,7 @@
     <round>10</round>
     <circuitId>70</circuitId>
     <name>Austrian Grand Prix</name>
-    <date>2/07/2023</date>
+    <date>2.07.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2507,7 +2507,7 @@
     <round>11</round>
     <circuitId>9</circuitId>
     <name>British Grand Prix</name>
-    <date>9/07/2023</date>
+    <date>9.07.2023</date>
     <time>14:00:00</time>
   </row>
   <row>
@@ -2517,7 +2517,7 @@
     <round>12</round>
     <circuitId>11</circuitId>
     <name>Hungarian Grand Prix</name>
-    <date>23/07/2023</date>
+    <date>23.07.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2527,7 +2527,7 @@
     <round>13</round>
     <circuitId>13</circuitId>
     <name>Belgian Grand Prix</name>
-    <date>30/07/2023</date>
+    <date>30.07.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2537,7 +2537,7 @@
     <round>14</round>
     <circuitId>39</circuitId>
     <name>Dutch Grand Prix</name>
-    <date>27/08/2023</date>
+    <date>27.08.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2547,7 +2547,7 @@
     <round>15</round>
     <circuitId>14</circuitId>
     <name>Italian Grand Prix</name>
-    <date>3/09/2023</date>
+    <date>3.09.2023</date>
     <time>13:00:00</time>
   </row>
   <row>
@@ -2557,7 +2557,7 @@
     <round>16</round>
     <circuitId>15</circuitId>
     <name>Singapore Grand Prix</name>
-    <date>17/09/2023</date>
+    <date>17.09.2023</date>
     <time>12:00:00</time>
   </row>
   <row>
@@ -2567,7 +2567,7 @@
     <round>17</round>
     <circuitId>22</circuitId>
     <name>Japanese Grand Prix</name>
-    <date>24/09/2023</date>
+    <date>24.09.2023</date>
     <time>05:00:00</time>
   </row>
   <row>
@@ -2577,7 +2577,7 @@
     <round>18</round>
     <circuitId>78</circuitId>
     <name>Qatar Grand Prix</name>
-    <date>8/10/2023</date>
+    <date>8.10.2023</date>
     <time>14:00:00</time>
   </row>
   <row>
@@ -2587,7 +2587,7 @@
     <round>19</round>
     <circuitId>69</circuitId>
     <name>United States Grand Prix</name>
-    <date>22/10/2023</date>
+    <date>22.10.2023</date>
     <time>19:00:00</time>
   </row>
   <row>
@@ -2597,7 +2597,7 @@
     <round>20</round>
     <circuitId>32</circuitId>
     <name>Mexico City Grand Prix</name>
-    <date>29/10/2023</date>
+    <date>29.10.2023</date>
     <time>20:00:00</time>
   </row>
   <row>
@@ -2607,7 +2607,7 @@
     <round>21</round>
     <circuitId>18</circuitId>
     <name>São Paulo Grand Prix</name>
-    <date>5/11/2023</date>
+    <date>5.11.2023</date>
     <time>17:00:00</time>
   </row>
   <row>
@@ -2617,7 +2617,7 @@
     <round>22</round>
     <circuitId>80</circuitId>
     <name>Las Vegas Grand Prix</name>
-    <date>19/11/2023</date>
+    <date>19.11.2023</date>
     <time>06:00:00</time>
   </row>
   <row>
@@ -2627,7 +2627,7 @@
     <round>23</round>
     <circuitId>24</circuitId>
     <name>Abu Dhabi Grand Prix</name>
-    <date>26/11/2023</date>
+    <date>26.11.2023</date>
     <time>13:00:00</time>
   </row>
 </data>

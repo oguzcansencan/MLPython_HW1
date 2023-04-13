@@ -57,8 +57,8 @@ data_races.isnull().sum()
 data_results.isnull().sum()
 
 #
-# pitstop milliseconds (pit stopes per year for each constructors)
 # laptimes milliseconds (lap times per year for each constructors)
+# pitstop milliseconds (pit stopes per year for each constructors)
 
 scaler = MinMaxScaler()
 
@@ -82,3 +82,36 @@ data_lapTimes.to_json("outputs/pre-processed/lap_times.json")
 data_pitStops.to_json("outputs/pre-processed/pit_stops.json")
 data_races.to_json("outputs/pre-processed/races.json")
 data_results.to_json("outputs/pre-processed/results.json")
+
+# race-based average lap times for each driver
+table_lapTimes = data_lapTimes.groupby(['raceId', 'driverId'])['raceId', 'driverId', 'milliseconds'].mean()
+table_lapTimes.index = pd.RangeIndex(len(table_lapTimes.index))
+table_lapTimes = table_lapTimes.merge(data_races, left_on='raceId', right_on='raceId').loc[:, ['raceId', 'driverId', 'milliseconds', 'year']]
+# yearly average lap times for each driver
+table_lapTimes = table_lapTimes.groupby(['driverId', 'year'])['driverId', 'year', 'milliseconds'].agg(['count', 'mean'])
+table_lapTimes.index = pd.RangeIndex(len(table_lapTimes.index))
+table_lapTimes = table_lapTimes.iloc[:, [1, 3, 4, 5]]
+table_lapTimes.columns = ['driverId', 'year', 'count', 'milliseconds']
+
+#
+table_pitStops = data_pitStops.groupby(['raceId', 'driverId'])['raceId', 'driverId', 'milliseconds'].agg(['sum', 'count', 'mean'])
+table_pitStops.index = pd.RangeIndex(len(table_pitStops.index))
+table_pitStops = table_pitStops.iloc[:, [2, 5, 6, 7]]
+table_pitStops.columns = ['raceId', 'driverId', 'sum', 'count']
+#
+table_pitStops = table_pitStops.merge(data_results.loc[:, ['raceId', 'driverId', 'constructorId']], left_on=('raceId', 'driverId'), right_on=('raceId', 'driverId'))
+table_pitStops = table_pitStops.merge(data_races.loc[:, ['raceId', 'year']], left_on='raceId', right_on='raceId')
+table_pitStops = table_pitStops.groupby(['constructorId', 'year'])['constructorId', 'year', 'sum', 'count'].agg(['sum', 'mean'])
+table_pitStops.index = pd.RangeIndex(len(table_pitStops.index))
+table_pitStops = table_pitStops.iloc[:, [1, 3, 4, 6]]
+table_pitStops.columns = ['constructorId', 'year', 'sum', 'count']
+table_pitStops = table_pitStops.merge(data_constructors.loc[:, ['constructorId', 'constructorRef']], left_on='constructorId', right_on='constructorId')
+
+#
+table_lapTimes.to_xml("outputs/tables/lapTimes.xml")
+table_lapTimes.to_json("outputs/tables/lapTimes.json")
+
+table_pitStops.to_xml("outputs/tables/pitStops.xml")
+table_pitStops.to_json("outputs/tables/pitStops.json")
+
+
