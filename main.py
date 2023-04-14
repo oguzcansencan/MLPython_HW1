@@ -1,7 +1,13 @@
 import pandas as pd
 import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+
+from mpl_toolkits.mplot3d import Axes3D
 from sklearn.preprocessing import MinMaxScaler
 from fpdf import FPDF
+
+matplotlib.use('TkAgg')
 
 #def readFromCSV(filename):
 #    return pd.read_csv("resources/" + filename + ".csv")
@@ -118,29 +124,19 @@ data_races.to_json("outputs/pre-processed/races.json")
 data_results.to_json("outputs/pre-processed/results.json")
 data_sprintResults.to_json("outputs/pre-processed/sprint_results.json")
 
-# race-based average lap times for each driver
-pt1_lapTimes = data_lapTimes.groupby(['raceId', 'driverId'])['raceId', 'driverId', 'milliseconds'].mean()
+pt1_lapTimes = data_lapTimes.loc[:, ['raceId', 'driverId', 'milliseconds']].merge(data_races.loc[:, ['raceId', 'year']], how='left', on='raceId')
+pt4_lapTimes = pt1_lapTimes.groupby(['year'])['year', 'milliseconds'].mean()
+pt1_lapTimes = pt1_lapTimes.groupby(['driverId', 'year'])['driverId', 'year', 'milliseconds'].mean()
 pt1_lapTimes.index = pd.RangeIndex(len(pt1_lapTimes.index))
-pt1_lapTimes = pt1_lapTimes.merge(data_races, left_on='raceId', right_on='raceId').loc[:, ['raceId', 'driverId', 'milliseconds', 'year']]
-# yearly average lap times for each driver
-pt2_lapTimes = pt1_lapTimes.groupby(['driverId', 'year'])['driverId', 'year', 'milliseconds'].agg(['count', 'mean'])
-pt2_lapTimes.index = pd.RangeIndex(len(pt2_lapTimes.index))
-pt2_lapTimes = pt2_lapTimes.iloc[:, [1, 3, 4, 5]]
-pt2_lapTimes.columns = ['driverId', 'year', 'count', 'milliseconds']
 
-# Total PitStop Time and Count for each driver in each race
-pt3_pitStops = data_pitStops.groupby(['raceId', 'driverId'])['raceId', 'driverId', 'milliseconds'].agg(['sum', 'count', 'mean'])
-pt3_pitStops.index = pd.RangeIndex(len(pt3_pitStops.index))
-pt3_pitStops = pt3_pitStops.iloc[:, [2, 5, 6, 7]]
-pt3_pitStops.columns = ['raceId', 'driverId', 'sum', 'count']
 # Total PitStop Time and count for each constructor in each year
-pt4_pitStops = pt3_pitStops.merge(data_results.loc[:, ['raceId', 'driverId', 'constructorId']], left_on=('raceId', 'driverId'), right_on=('raceId', 'driverId'))
-pt4_pitStops = pt4_pitStops.merge(data_races.loc[:, ['raceId', 'year']], left_on='raceId', right_on='raceId')
-pt4_pitStops = pt4_pitStops.groupby(['constructorId', 'year'])['constructorId', 'year', 'sum', 'count'].agg(['sum', 'mean'])
-pt4_pitStops.index = pd.RangeIndex(len(pt4_pitStops.index))
-pt4_pitStops = pt4_pitStops.iloc[:, [1, 3, 4, 6]]
-pt4_pitStops.columns = ['constructorId', 'year', 'sum', 'count']
-pt4_pitStops = pt4_pitStops.merge(data_constructors.loc[:, ['constructorId', 'constructorRef']], left_on='constructorId', right_on='constructorId')
+pt2_pitStops = data_pitStops.loc[:, ['raceId', 'driverId', 'milliseconds']].merge(data_results.loc[:, ['raceId', 'driverId', 'constructorId']], how='left', on=('raceId', 'driverId'))
+pt2_pitStops = pt2_pitStops.merge(data_races.loc[:, ['raceId', 'year']], on='raceId', how='left')
+pt2_pitStops = pt2_pitStops.groupby(['constructorId', 'year'])['constructorId', 'year', 'milliseconds'].agg(['mean', 'count', 'sum'])
+pt2_pitStops = pt2_pitStops.iloc[:, [0, 3, 7, 8]]
+pt2_pitStops.index = pd.RangeIndex(len(pt2_pitStops.index))
+pt2_pitStops.columns = ['constructorId', 'year', 'pitCounts', 'totalPitTime']
+pt2_pitStops = pt2_pitStops.merge(data_constructors.loc[:, ['constructorId', 'constructorRef']], how='left', on='constructorId')
 
 # All the stats for each driver in each race
 # - Lap Count
@@ -150,10 +146,10 @@ pt4_pitStops = pt4_pitStops.merge(data_constructors.loc[:, ['constructorId', 'co
 # - Average Pit Stop Time
 # - Total Pit Stop Time
 # - Year
-pt5_stats = data_lapTimes.groupby(['raceId', 'driverId'])['raceId', 'driverId', 'milliseconds'].agg(['count', 'mean', 'sum'])
-pt5_stats.index = pd.RangeIndex(len(pt5_stats.index))
-pt5_stats = pt5_stats.iloc[:, [1, 4, 6, 7, 8]]
-pt5_stats.columns = ['raceId', 'driverId', 'lapCounts', 'avgLapTime', 'totalLapTime']
+pt3_stats = data_lapTimes.groupby(['raceId', 'driverId'])['raceId', 'driverId', 'milliseconds'].agg(['count', 'mean', 'sum'])
+pt3_stats.index = pd.RangeIndex(len(pt3_stats.index))
+pt3_stats = pt3_stats.iloc[:, [1, 4, 6, 7, 8]]
+pt3_stats.columns = ['raceId', 'driverId', 'lapCounts', 'avgLapTime', 'totalLapTime']
 
 temp_results = data_results.loc[:, ['raceId', 'driverId', 'points']]
 temp_sprintResult = data_sprintResults.loc[:, ['raceId', 'driverId', 'points']]
@@ -162,31 +158,57 @@ temp_results = temp_results.merge(temp_sprintResult, on=('raceId', 'driverId'), 
 temp_results = temp_results.fillna(0)
 temp_results['points'] = temp_results['points'] + temp_results['sprintPoints']
 
-pt5_stats = pt5_stats.merge(temp_results.loc[:, ['raceId', 'driverId', 'points']], on=('raceId', 'driverId'), how='left')
+pt3_stats = pt3_stats.merge(temp_results.loc[:, ['raceId', 'driverId', 'points']], on=('raceId', 'driverId'), how='left')
 
 temp_pitStops = data_pitStops.groupby(['raceId', 'driverId'])['raceId', 'driverId', 'milliseconds'].agg(['count', 'mean', 'sum'])
 temp_pitStops.index = pd.RangeIndex(len(temp_pitStops.index))
 temp_pitStops = temp_pitStops.iloc[:, [1, 4, 6, 7, 8]]
 temp_pitStops.columns = ['raceId', 'driverId', 'pitCounts', 'avgPitTime', 'totalPitTime']
-pt5_stats = pt5_stats.merge(temp_pitStops, on=('raceId', 'driverId'), how='left')
+pt3_stats = pt3_stats.merge(temp_pitStops, on=('raceId', 'driverId'), how='left')
 
-pt5_stats = pt5_stats.fillna(0)
+pt3_stats = pt3_stats.fillna(0)
 
-pt5_stats = pt5_stats.merge(data_races.loc[:, ['raceId', 'year', 'circuitId', 'name']], on='raceId', how='left')
-pt5_stats = pt5_stats.merge(data_drivers.loc[:, ['driverId', 'forename', 'surname']], on='driverId', how='left')
+pt3_stats = pt3_stats.merge(data_races.loc[:, ['raceId', 'year', 'circuitId', 'name']], on='raceId', how='left')
+pt3_stats = pt3_stats.merge(data_drivers.loc[:, ['driverId', 'forename', 'surname']], on='driverId', how='left')
 
 pd.set_option('display.expand_frame_repr', False)
 
 #
 pt1_lapTimes.to_xml("outputs/tables/pt1_lapTimes.xml")
-pt2_lapTimes.to_xml("outputs/tables/pt2_lapTimes.xml")
-pt3_pitStops.to_xml("outputs/tables/pt3_pitStops.xml")
-pt4_pitStops.to_xml("outputs/tables/pt4_pitStops.xml")
-pt5_stats.to_xml("outputs/tables/pt5_stats.xml")
+pt2_pitStops.to_xml("outputs/tables/pt2_pitStops.xml")
+pt3_stats.to_xml("outputs/tables/pt3_stats.xml")
 
 
-pt5_stats.iloc[:, 2:10].describe().to_csv('outputs/analysis/descriptive_statistics.txt', sep=',', float_format='%.3f')
-pt5_stats.iloc[:, 2:10].corr().to_csv('outputs/analysis/correlation_analysis.txt', sep=',', float_format='%.3f')
+pt3_stats.iloc[:, 2:10].describe().to_csv('outputs/analysis/descriptive_statistics.txt', sep=',', float_format='%.3f')
+pt3_stats.iloc[:, 2:10].corr().to_csv('outputs/analysis/correlation_analysis.txt', sep=',', float_format='%.3f')
 
-to_pdf("Correlation Analysis", pt5_stats.iloc[:, 2:10].corr(), "correlation_analysis")
-to_pdf("Descriptive Statistics", pt5_stats.iloc[:, 2:9].describe(), "descriptive_statistics")
+to_pdf("Correlation Analysis", pt3_stats.iloc[:, 2:10].corr(), "correlation_analysis")
+to_pdf("Descriptive Statistics", pt3_stats.iloc[:, 2:9].describe(), "descriptive_statistics")
+
+
+temp = pt3_stats.groupby(['raceId'])['raceId', 'pitCounts'].agg(['mean', 'sum'])
+temp = temp.iloc[:, [0, 3]]
+temp.columns = ['raceId', 'pitCounts']
+temp.index = pd.RangeIndex(len(temp.index))
+fig1, ax1 = plt.subplots()
+ax1.bar(pt4_lapTimes.year, pt4_lapTimes.milliseconds)
+ax1.set_xlabel('Years')
+ax1.set_ylabel('Lap Times in Milliseconds')
+ax1.set_title('Bar Chart')
+
+fig2, ax2 = plt.subplots()
+ax2.hist(temp.pitCounts, bins=30, color='green', alpha=0.5)
+ax2.set_xlabel('Number of Pit Stops in Races')
+ax2.set_ylabel('Frequency')
+ax2.set_title('Histogram')
+
+fig3 = plt.figure()
+ax3 = fig3.add_subplot(111, projection='3d')
+ax3.scatter(pt2_pitStops.constructorId, pt2_pitStops.year, pt2_pitStops.pitCounts, c=pt2_pitStops.pitCounts, cmap='coolwarm')
+ax3.set_xlabel('Constructor IDs')
+ax3.set_ylabel('Years')
+ax3.set_zlabel('Pit Counts')
+ax3.set_title('Scatter Plot')
+
+# Show both plots
+plt.show()
